@@ -38,12 +38,14 @@ straits_pb = 0;
 #10 in = 1;
 #10 in = 2;
 #10 in = 0;
+#10 star_pb = 0;
 #100;
 #10 straits_pb = 1;
 star_pb = 0;
 #10	in = 1;
 #10 in = 2;
 #30 in = 0;
+#10 straits_pb = 0;
 #100;
 
 #10 star_pb = 1;
@@ -51,23 +53,24 @@ straits_pb = 0;
 #30 in = 0;
 #10 in = 1;
 #10 in = 1;
+	
 #10 in = 0;
+#10 star_pb = 0;
 #40;
 
 
-#10 star_pb = 1;
-straits_pb = 0;
-#20 rst = 0;
 #30 in = 0;
 #10 in = 1;
 #10 in = 2;
 #10 in = 0;
+#10 star_pb = 0;
 #100;
 #10 straits_pb = 1;
 star_pb = 0;
 #10	in = 1;
 #10 in = 2;
 #30 in = 0;
+#10 straits_pb = 0;
 #100;
 
 #10 star_pb = 1;
@@ -75,23 +78,25 @@ straits_pb = 0;
 #30 in = 0;
 #10 in = 1;
 #10 in = 1;
+	
 #10 in = 0;
+#10 star_pb = 0;
 #40;
 
 
-#10 star_pb = 1;
-straits_pb = 0;
-#20 rst = 0;
+
 #30 in = 0;
 #10 in = 1;
 #10 in = 2;
 #10 in = 0;
+#10 star_pb = 0;
 #100;
 #10 straits_pb = 1;
 star_pb = 0;
 #10	in = 1;
 #10 in = 2;
 #30 in = 0;
+#10 straits_pb = 0;
 #100;
 
 #10 star_pb = 1;
@@ -99,8 +104,11 @@ straits_pb = 0;
 #30 in = 0;
 #10 in = 1;
 #10 in = 1;
+	
 #10 in = 0;
+#10 star_pb = 0;
 #40;
+
 
 
 
